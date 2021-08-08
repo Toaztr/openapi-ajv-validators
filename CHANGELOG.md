@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/Toaztr/openapi-ajv-validators/compare/v1.0.1...v1.0.2) (2021-08-08)
+
+
+### Bug Fixes
+
+* fix script name ([f5016e4](https://www.github.com/Toaztr/openapi-ajv-validators/commit/f5016e4763624300caada76b498fed5a70d6ec2a))
+
 ### [1.0.1](https://www.github.com/Toaztr/openapi-ajv-validators/compare/v1.0.0...v1.0.1) (2021-08-08)
 
 
