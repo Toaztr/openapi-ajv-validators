@@ -35,7 +35,6 @@ jobs:
           key: ${{ runner.OS }}-node-${{ hashFiles('deploy/package-lock.json') }}
       - run: npm ci
       - run: npm run build
-      - run: npm version ${{ needs.release-please.outputs.version_created }}
       - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
