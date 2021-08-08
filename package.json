@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "OpenAPI validators generator",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "sync": "git remote -v | grep upstream || git remote add upstream git@github.com:Toaztr/openapi-ajv-validators.git && git checkout master && git fetch upstream master && git rebase upstream/master && git push origin"
   },
   "bin": {
     "openapi-ajv-calidators": "dist/cli.js"
