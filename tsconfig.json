@@ -1,0 +1,11 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "module": "CommonJS",
+    "outDir": "dist",
+    "lib": ["ES2018"],
+    "allowJs": true,
+    "target": "ES2018",
+    "esModuleInterop": false
+  }
+}

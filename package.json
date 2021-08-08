@@ -1,0 +1,35 @@
+{
+  "name": "@toaztr/openapi-ajv-validators",
+  "version": "0.0.1",
+  "description": "OpenAPI validators generator",
+  "scripts": {
+    "build": "tsc"
+  },
+  "bin": {
+    "openapi-ajv-calidators": "dist/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toaztr/openapi-ajv-validators.git"
+  },
+  "keywords": [
+    "api",
+    "fintech",
+    "toaztr",
+    "ajv"
+  ],
+  "author": "Toaztr SAS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toaztr/openapi-ajv-validators/issues"
+  },
+  "homepage": "https://github.com/Toaztr/openapi-ajv-validators#readme",
+  "dependencies": {
+    "@types/node": "^16.4.13",
+    "ajv": "^8.6.2",
+    "ajv-formats": "^2.1.0",
+    "kleur": "^4.1.4",
+    "meow": "^8.0.0",
+    "typescript": "^4.3.5"
+  }
+}
