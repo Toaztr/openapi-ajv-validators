@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/Toaztr/openapi-ajv-validators/compare/v1.0.2...v1.0.3) (2021-08-08)
+
+
+### Bug Fixes
+
+* upgrade meow to 9.0.0 ([3a6b488](https://www.github.com/Toaztr/openapi-ajv-validators/commit/3a6b48862e4af96fb9654fc37586287d39ed627b))
+
 ### [1.0.2](https://www.github.com/Toaztr/openapi-ajv-validators/compare/v1.0.1...v1.0.2) (2021-08-08)
 
 
