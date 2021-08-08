@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.4](https://www.github.com/Toaztr/openapi-ajv-validators/compare/v1.0.3...v1.0.4) (2021-08-08)
+
+
+### Bug Fixes
+
+* Adds shebang in cli ([22bbd87](https://www.github.com/Toaztr/openapi-ajv-validators/commit/22bbd87b4f75308979adc21b14f383bb9c40fef9))
+
 ### [1.0.3](https://www.github.com/Toaztr/openapi-ajv-validators/compare/v1.0.2...v1.0.3) (2021-08-08)
 
 
