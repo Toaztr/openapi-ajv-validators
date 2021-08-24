@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/Toaztr/openapi-ajv-validators/compare/v1.0.4...v1.1.0) (2021-08-24)
+
+
+### Features
+
+* deliver only dist ([4ca036e](https://www.github.com/Toaztr/openapi-ajv-validators/commit/4ca036e8469dfd5fa63b10bc7e90a8e5fc82ef1b))
+
 ### [1.0.4](https://www.github.com/Toaztr/openapi-ajv-validators/compare/v1.0.3...v1.0.4) (2021-08-08)
 
 
