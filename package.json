@@ -9,6 +9,9 @@
   "bin": {
     "openapi-ajv-validators": "dist/cli.js"
   },
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Toaztr/openapi-ajv-validators.git"
