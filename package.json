@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Toaztr/openapi-ajv-validators#readme",
   "devDependencies": {
-    "@types/node": "16.4.13",
+    "@types/node": "16.18.115",
     "typescript": "4.3.5"
   },
   "dependencies": {
